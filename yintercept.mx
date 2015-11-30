@@ -1,0 +1,8 @@
+# Calculate Y Intercept using Slope, X and Y
+:Disp "Slope"
+:Input M
+:Disp "X"
+:Input X
+:Disp "Y"
+:Input Y
+:Disp ((M)(X)-Y)/-1
