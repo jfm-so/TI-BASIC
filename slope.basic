@@ -1,0 +1,10 @@
+# Calculate Slope with Two Points
+:Disp "X1"
+:Input X
+:Disp "Y1"
+:Input Y
+:Disp "X2"
+:Input A
+:Disp "Y2"
+:Input B
+:Disp (B-Y)/(A-X)
