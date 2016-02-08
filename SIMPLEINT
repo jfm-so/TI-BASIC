@@ -1,0 +1,8 @@
+:Disp "PRINCIPAL"
+:Input P
+:Disp "RATE (DEC.)"
+:Input R
+:Disp "TIME IN YEARS"
+:Input T
+:Disp "I="
+:Disp P*R*T
