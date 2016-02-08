@@ -1,0 +1,9 @@
+:Disp "PRINCIPAL"
+:Input "P"
+:Disp "RATE"
+:Input R
+:Disp "COMP PER YEAR"
+:Input N
+:Disp "TIME IN YEARS"
+:Input T
+:Disp P(1+(R/N))^(N*T)
